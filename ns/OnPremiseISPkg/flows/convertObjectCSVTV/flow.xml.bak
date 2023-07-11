@@ -949,6 +949,9 @@
 
 <MAPDELETE FIELD="/returnErrors;1;0">
 </MAPDELETE>
+
+<MAPCOPY FROM="/ffValues;2;0" TO="/ffData;3;0">
+</MAPCOPY>
 </MAP>
 </INVOKE>
 
