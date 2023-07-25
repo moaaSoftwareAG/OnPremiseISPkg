@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IDataXMLCoder version="1.0">
+  <record javaclass="com.wm.data.ISMemDataImpl">
+    <array name="globalVariables" type="record" depth="1">
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">username</value>
+        <value name="value">Admin</value>
+        <value name="isSecure">false</value>
+      </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">Password</value>
+        <value name="value">gvhandle.Password</value>
+        <value name="isSecure">true</value>
+      </record>
+    </array>
+  </record>
+</IDataXMLCoder>
